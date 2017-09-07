@@ -1,0 +1,20 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "In this repo, I will use the API to create an artificial intelligence (AI) voice chat interface in the browser.  The app will listen to the user’s voice and reply with a synthetic voice.  Because the Web Speech API is still experimental, the app works only in supported browsers.  The features used for this article, both speech recognition and speech synthesis, are currently only in t he Chromium-based browsers, including Chrome 25+ and Opera 27+, while Firefox,  Edge and Safari support only speech synthesis at the moment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurimas-darguzis/chat-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurimas-darguzis/chat-bot/issues"
+  },
+  "homepage": "https://github.com/aurimas-darguzis/chat-bot#readme"
+}
