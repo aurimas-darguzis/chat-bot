@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const apiai = require('apiai')(APIAI_TOKEN);
 
 app.use(express.static(__dirname + '/views')); // html
 app.use(express.static(__dirname + '/public')); // js, css, images
